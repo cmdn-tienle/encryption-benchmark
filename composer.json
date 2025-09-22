@@ -1,5 +1,5 @@
 {
-    "name": "acme/phpbench-test",
+    "name": "cmdn-tienle/encryption-benchmark",
     "require-dev": {
         "phpbench/phpbench": "^1.4"
     },
